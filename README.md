@@ -19,11 +19,12 @@ Afin de réaliser ce projet et aboutir notre objectif on a suivit la méthodolog
 ### Etude Statistique
 
 Ces résultats fournissent une perspective précieuse sur les problèmes potentiels, jetant ainsi les bases d’une analyse statistique visant à améliorer l’expérience des utilisateurs de guichets automatiques.
+![Example Image](Images/stat-1.png)
 
 ```
 Figure 2.1: Tranche d’age
 ```
-
+![Example Image](Images/stat-2.png)
 ```
 Figure 2.2: Pourcentage d’utilisation du guichet automatique ONCF
 ```
@@ -33,6 +34,7 @@ automatiques de l’ONCF. Cela suscite la question suivante : pourquoi cette pro
 significative a-t-elle choisi de ne pas utiliser ces guichets? Les réponses fournies
 ci-dessous offrent quelques éclaircissements:
 
+![Example Image](Images/stat-3.png)
 ```
 Figure 2.3: Réponses au 1er question
 ```
@@ -45,6 +47,7 @@ les difficultés rencontrées, nous avons interrogé ces participants, obtenant 
 ```
 les réponses exposées ci-dessous:
 ```
+![Example Image](Images/stat-4.png)
 ```
 Figure 2.4: Réponses au deuxième question
 ```
